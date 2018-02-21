@@ -1,2 +1,2 @@
-<?php 'encore un'
+<?php 'encore un nouveau fichier'
 ?>
